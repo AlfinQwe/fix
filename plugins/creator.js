@@ -42,11 +42,11 @@ const sections = [
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
-	{title: "📱 • Nomor Owner V2", rowId: ".owner nomor"},
-	{title: "📱 • Pengembang", rowId: ".owner nomor"},
-	{title: "📱 • Creator", rowId: ".owner nomor"},
+	{title: "📱 • Nomor Owner V2", rowId: ".snh"},
+	{title: "📱 • Pengembang", rowId: ".nomorown"},
+	{title: "📱 • Creator", rowId: ".syt"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
-	{title: "🌎 • Script", rowId: ".sc"},
+	{title: "🌎 • Script", rowId: ".sgh"},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
