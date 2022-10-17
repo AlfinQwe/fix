@@ -69,7 +69,7 @@ global.psaweria = 'https://saweria.com/AlfinQwe'
 /*============== NOMOR ==============*/
 global.nomorbot = '6289699565795'
 global.nomorown = '6289699565795'
-global.namebot = 'MAH MODS DEV'
+global.namebot = 'AlfinQwe'
 global.nameown = 'Mukhammad Alfin Hidayatulloh'
 
 /*============== Github Thanks To ==============*/
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289699565795', 'Mukhammad Alfin Hidayatulloh', true],
-  ['6289699565795', 'AlfinQwe', true],
+  ['6289699565795', '089699565795', true],
+  ['089699565795', 'AlfinQwe', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 Mukhammad Alfin Hidayatulloh 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Mukhammad Alfin Hidayatulloh ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Mukhammad Alfin Hidayatulloh '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | Mukhammad Alfin Hidayatulloh`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 Mukhammad Alfin Hidayatulloh  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'Mukhammad Alfin Hidayatulloh'
+global.stickauth = `By ©AlpinBot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
