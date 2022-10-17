@@ -42,11 +42,11 @@ const sections = [
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
-	{title: "📱 • Nomor Owner V2", rowId: "6289699565795"},
-	{title: "📱 • Pengembang", rowId: "6289699565795"},
-	{title: "📱 • Creator", rowId: "https://www.youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg"},
+	{title: "📱 • Nomor Owner V2", rowId: '6289699565795'},
+	{title: "📱 • Pengembang", rowId: '6289699565795'},
+	{title: "📱 • Creator", rowId: 'https://www.youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg'},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
-	{title: "🌎 • Script", rowId: "https://www.youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg"},
+	{title: "🌎 • Script", rowId: 'https://www.youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg'},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
